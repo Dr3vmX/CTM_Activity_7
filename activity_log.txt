@@ -1,0 +1,36 @@
+Logs:
+Hostname: Abemm]
+IP: 10.0.0.10
+help
+whois 10.0.0.10
+whois 8.8.8.8
+whois 192.168.1.254
+wget abemm
+ls
+cat activity_10_log.txt
+ip a
+hostname -I
+ping 10.0.0.10
+traceroute 10.0.0.10
+nslookup 10.0.0.10
+nslookup 8.8.8.8
+nslookup 192.168.1.134
+145.45.156.88
+nslookup 145.45.156.88
+dig 145.45.156.88
+nmap 10.0.0.10
+nmap 192.168.1.134
+nmap -A 10.0.0.10
+nmap -A 192.168.1.134
+tcpdump -i ethernet
+nmap 192.168.1.215:22
+nmap 192.168.1.215
+arp-scan --localnet
+sudo arp-scan --localnet
+nmap -sV 192.168.1.183
+nmap -sV 192.168.1.180
+ls
+cat activity_10_log.txt
+wget activity_10_log.txt
+ls
+cat activity_10_log.txt
